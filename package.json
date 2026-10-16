@@ -1,0 +1,21 @@
+{
+  "name": "pw-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node example1.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "description": "",
+  "main": "example1.js",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
